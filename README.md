@@ -10,7 +10,6 @@ In my free time, I enjoy playing and making video games, brewing beer and travel
 
 ### 📝 Latest articles from [dev.to](https://dev.to/ederchrono)
 
-* Jul 22 2019 [As a non-web-developer, which are the things you'd like to learn to become a web developer?](https://dev.to/ederchrono/as-a-non-web-developer-which-are-the-things-you-d-like-to-learn-to-become-a-web-developer-6dp) 
 * May 15 2019 [Swipe Gallery using Vue.js & Tailwind - WotW](https://dev.to/ederchrono/swipe-gallery-using-vue-js-tailwind-wotw-4akc) 
 * Apr 24 2019 [Minimalistic nav menu with Vue.js and GSAP - WotW](https://dev.to/ederchrono/minimalistic-nav-menu-with-vue-js-and-gsap-wotw-1m3k) 
 * Jul 31 2018 [Making an interactive password validator - WotW](https://dev.to/ederchrono/making-an-interactive-password-validator---wotw-1md0) 
