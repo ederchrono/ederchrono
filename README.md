@@ -8,7 +8,11 @@ Additionally, I love teaching about refactoring and UI programatic animations.
 
 In my free time, I enjoy playing and making video games, brewing beer and traveling.
 
-### 📝 Latest articles from [dev.to](https://dev.to/ederchrono)
+### 📝 My personal blog
+
+[ederdiaz.dev](https://ederdiaz.dev/)
+
+### Latest articles from [dev.to](https://dev.to/ederchrono)
 
 * May 15 2019 [Swipe Gallery using Vue.js & Tailwind - WotW](https://dev.to/ederchrono/swipe-gallery-using-vue-js-tailwind-wotw-4akc) 
 * Apr 24 2019 [Minimalistic nav menu with Vue.js and GSAP - WotW](https://dev.to/ederchrono/minimalistic-nav-menu-with-vue-js-and-gsap-wotw-1m3k) 
