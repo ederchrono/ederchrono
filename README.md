@@ -1,6 +1,6 @@
 ### Hi! I'm Eder Díaz
 
-I have over 11 years of experience in frontend development, primarily in media and entertainment industries. 
+I have over 12 years of experience in frontend development, primarily in media and entertainment industries. 
 
 I'm passionate about making highly interactive sites and apps. 
 
