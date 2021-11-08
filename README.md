@@ -17,8 +17,8 @@ In my free time, I enjoy playing and making video games, brewing beer and travel
 <!-- BLOG-POST-LIST:START -->
 - [TDD debugging](https://dev.to/ederchrono/tdd-debugging-37hb)
 - [Clean code exercises - part 1](https://dev.to/ederchrono/clean-code-exercises-part-1-5gl7)
-- [As a non-web-developer, which are the things you'd like to learn to become a web developer?](https://dev.to/ederchrono/as-a-non-web-developer-which-are-the-things-you-d-like-to-learn-to-become-a-web-developer-6dp)
-- [Swipe Gallery using Vue.js & Tailwind - WotW](https://dev.to/ederchrono/swipe-gallery-using-vue-js-tailwind-wotw-4akc)
+- [As a non-web-developer, which are the things you&#39;d like to learn to become a web developer?](https://dev.to/ederchrono/as-a-non-web-developer-which-are-the-things-you-d-like-to-learn-to-become-a-web-developer-6dp)
+- [Swipe Gallery using Vue.js &amp; Tailwind - WotW](https://dev.to/ederchrono/swipe-gallery-using-vue-js-tailwind-wotw-4akc)
 - [Minimalistic nav menu with Vue.js and GSAP - WotW](https://dev.to/ederchrono/minimalistic-nav-menu-with-vue-js-and-gsap-wotw-1m3k)
 <!-- BLOG-POST-LIST:END -->
 
