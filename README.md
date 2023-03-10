@@ -15,11 +15,11 @@ In my free time, I enjoy playing and making video games, brewing beer and travel
 ### Latest articles from [dev.to](https://dev.to/ederchrono)
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Productivity with Code Generators: A Guide to Simplify Your Workflow](https://dev.to/ederchrono/boost-your-productivity-with-code-generators-a-guide-to-simplify-your-workflow-25im)
 - [Clean code exercises - part 2](https://dev.to/ederchrono/clean-code-exercises-part-2-3ee3)
 - [TDD debugging](https://dev.to/ederchrono/tdd-debugging-37hb)
 - [Clean code exercises - part 1](https://dev.to/ederchrono/clean-code-exercises-part-1-5gl7)
 - [As a non-web-developer, which are the things you&#39;d like to learn to become a web developer?](https://dev.to/ederchrono/as-a-non-web-developer-which-are-the-things-you-d-like-to-learn-to-become-a-web-developer-6dp)
-- [Swipe Gallery using Vue.js &amp; Tailwind - WotW](https://dev.to/ederchrono/swipe-gallery-using-vue-js-tailwind-wotw-4akc)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest stack overflow activity
